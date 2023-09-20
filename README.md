@@ -1,5 +1,5 @@
 # diplocssoccomp
 
 Archivos compartidos
-
-[![Binder-tp integrador final](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rominicky/diplocssoccomp/e91b5b4493dfd5481fec3d2bcfc7ff53b026a61a?urlpath=lab%2Ftree%2Ftrabajo_final_TBC2019al2021.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/rominicky/diplocssoccomp/HEAD?labpath=https%3A%2F%2Fgithub.com%2Frominicky%2Fdiplocssoccomp%2Fblob%2Fmain%2F
